@@ -9,7 +9,8 @@ show_news: true
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 5
+    title: Контакты
 
 ---
 ## Hours of Operation
